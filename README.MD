@@ -13,6 +13,10 @@ One of Themis goals is to standardize lab tests and related issues (e.g., units)
 This effort will be based on real world data at OHDSI sites.
 
 
+## Update 2018-12
+
+Study moved to OhdsiStudies at https://github.com/OHDSI/OhdsiStudies. Renamed ThemisConcepts since we hope to cover coded values as well.
+
 ## Update 2018-11
 
 results presented at AMIA. Data driven consensus will be recomputed. KB submitted as PR to Achilles Heel and will be implemented as R function there.
